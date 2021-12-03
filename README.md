@@ -1,2 +1,2 @@
-# Bit-hub-para-estudiantes-de-BIT
-practica de GITHub 
+# Bit-hub
+practica de GITHub para estudiantes de BIT 
